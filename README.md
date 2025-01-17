@@ -83,6 +83,7 @@ This project aims to classify and tag landmarks in user-uploaded images for soci
 
 ## 🤝 **Contributions**
 This project was developed individually as part of Udacity's AWS Machine Learning Fundamentals Program.
+Special thanks to Udacity for the resources and mentorship provided during the course.
 
 ---
 
